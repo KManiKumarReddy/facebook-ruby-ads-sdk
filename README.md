@@ -1,5 +1,5 @@
 [![Gem Version](https://badge.fury.io/rb/facebook_ads.svg)](https://badge.fury.io/rb/facebook_ads)
-[![Build Status](https://travis-ci.org/cte/facebook-ruby-ads-sdk.svg?branch=master)](https://travis-ci.org/cte/facebook-ruby-ads-sdk)
+[![Build Status](https://travis-ci.org/KManiKumarReddy/facebook-ruby-ads-sdk.svg?branch=master)](https://travis-ci.org/KManiKumarReddy/facebook-ruby-ads-sdk)
 [![Coverage Status](https://coveralls.io/repos/github/cte/facebook-ruby-ads-sdk/badge.svg?branch=master)](https://coveralls.io/github/cte/facebook-ruby-ads-sdk?branch=master)
 
 # [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) SDK for Ruby
